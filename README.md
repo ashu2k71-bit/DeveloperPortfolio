@@ -57,7 +57,10 @@ Inspect the commit history.
 
 - [Semester-wise learning roadmap](Portfolio/learning_roadmap.md)
 
-Resume, updated profile screenshots and the GitHub Pages website are being added as the remaining capstone steps.
+- [One-page technical resume](Portfolio/resume.pdf)
+- [Portfolio website source](index.html)
+
+GitHub Pages deployment and updated professional profile screenshots are the remaining portfolio steps.
 
 ## Professional Profiles
 

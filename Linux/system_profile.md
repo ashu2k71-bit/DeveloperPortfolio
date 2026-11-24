@@ -7,7 +7,7 @@ These specifications describe the resources visible inside this virtual machine.
 
 | Component | Specification |
 | --- | --- |
-| CPU model | - |
+| CPU model | Model unavailable in VM (architecture aarch64) |
 | Virtual CPU count | 2 |
 | Total RAM | 1.9Gi |
 | Available RAM at capture | 1.7Gi |

@@ -1,0 +1,18 @@
+===== SYSTEM INFORMATION REPORT =====
+Name: Ashwani Singh
+Roll number: 2601730361
+Date: 2026-11-24 20:17:01 IST
+
+CPU model: Model unavailable in VM (aarch64)
+Virtual CPUs available: 2
+
+Total memory: 1.9Gi
+Used memory:  233Mi
+
+Top 3 processes by CPU usage
+    PID   %CPU COMMAND
+      1  0.0 systemd
+      2  0.0 kthreadd
+      3  0.0 pool_workqueue_release
+
+Report generated successfully.

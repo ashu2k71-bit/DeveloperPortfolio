@@ -60,7 +60,7 @@ Inspect the commit history.
 - [One-page technical resume](Portfolio/resume.pdf)
 - [Portfolio website source](index.html)
 
-GitHub Pages deployment and updated professional profile screenshots are the remaining portfolio steps.
+GitHub and LinkedIn profile screenshots are available in the Screenshots folder.
 
 ## Professional Profiles
 

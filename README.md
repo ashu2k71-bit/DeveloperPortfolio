@@ -17,6 +17,7 @@ This CSE103 capstone documents my practice with Linux, Bash automation, Git, RES
 
 - [System profile and binary conversions](Linux/system_profile.md)
 - [Linux command outputs](Linux/commands_output.txt)
+- [Linux execution screenshot](Screenshots/linux_demo.png)
 
 The Linux environment is an Ubuntu virtual machine running through Multipass on my Mac.
 
@@ -44,6 +45,7 @@ Backups and their log are stored in ~/DeveloperPortfolio_Backups/.
 - [JSONPlaceholder posts JSON](API/sample_posts.json)
 - [REST API summary](API/api_summary.md)
 - [Python summary script](API/profile_summary.py)
+- [API execution screenshot](Screenshots/api_demo.png)
 
 Run the Python summary from the repository root.
 
@@ -60,7 +62,9 @@ Inspect the commit history.
 - [One-page technical resume](Portfolio/resume.pdf)
 - [Portfolio website source](index.html)
 
-GitHub and LinkedIn profile screenshots are available in the Screenshots folder.
+- [Live portfolio website](https://ashu2k71-bit.github.io/DeveloperPortfolio/)
+- [GitHub profile screenshot](Screenshots/github_profile.png)
+- [LinkedIn profile screenshot](Screenshots/linkedin_profile.png)
 
 ## Professional Profiles
 
